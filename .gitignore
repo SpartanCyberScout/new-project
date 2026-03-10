@@ -1,0 +1,16 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+
+# Mapping and Data outputs
+*.html
+*.log
+data/*.csv
+data/*.json
+!data/.gitkeep
+
+# Environment and Secrets
+.env
+.ssh/
