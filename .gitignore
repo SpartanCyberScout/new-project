@@ -14,3 +14,10 @@ data/*.json
 # Environment and Secrets
 .env
 .ssh/
+
+map_*.html
+
+
+data/
+
+*.pyc
